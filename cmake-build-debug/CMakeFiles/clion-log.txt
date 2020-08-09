@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/tongxuanwang/Desktop/ECS/ecs 36b code/NcursesConnectN"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/tongxuanwang/Desktop/ECS/ecs 36b code/NcursesConnectN/cmake-build-debug

@@ -1,0 +1,3 @@
+/Users/tongxuanwang/Desktop/ECS/ecs 36b code/NcursesConnectN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tongxuanwang/Desktop/ECS/ecs 36b code/NcursesConnectN/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tongxuanwang/Desktop/ECS/ecs 36b code/NcursesConnectN/cmake-build-debug/CMakeFiles/NCursesConnectN.dir

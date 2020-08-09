@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tongxuanwang/Desktop/ECS/ecs 36b code/NcursesConnectN/CursorTrakeWindow.h
+ncurses.h
+-
+
+/Users/tongxuanwang/Desktop/ECS/ecs 36b code/NcursesConnectN/board.h
+
+/Users/tongxuanwang/Desktop/ECS/ecs 36b code/NcursesConnectN/move.c
+move.h
+/Users/tongxuanwang/Desktop/ECS/ecs 36b code/NcursesConnectN/move.h
+stdio.h
+-
+move.h
+/Users/tongxuanwang/Desktop/ECS/ecs 36b code/NcursesConnectN/move.h
+board.h
+/Users/tongxuanwang/Desktop/ECS/ecs 36b code/NcursesConnectN/board.h
+CursorTrakeWindow.h
+/Users/tongxuanwang/Desktop/ECS/ecs 36b code/NcursesConnectN/CursorTrakeWindow.h
+
+/Users/tongxuanwang/Desktop/ECS/ecs 36b code/NcursesConnectN/move.h
+stdbool.h
+-
+CursorTrakeWindow.h
+/Users/tongxuanwang/Desktop/ECS/ecs 36b code/NcursesConnectN/CursorTrakeWindow.h
+
